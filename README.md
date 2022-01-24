@@ -6,4 +6,4 @@ yarn start - запуск
 
 Начальный экран, когда список кораблей пуст:
 
-[!Text](./.github/1.png)
+[!Text](.github/1.png)
